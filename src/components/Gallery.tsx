@@ -18,7 +18,7 @@ const artworks: Artwork[] = [
     title: "Descent into the Unconscious",
     year: "2023",
     description: "left, non-dominant finger painting with gouache",
-    image: "images/whale.png",
+    image: "images/webp/whale.webp",
     size: "100 x 70 cm"
   },
   {
@@ -26,7 +26,7 @@ const artworks: Artwork[] = [
     title: "Alps",
     year: "2024",
     description: "left, non-dominant finger painting with gouache",
-    image: "images/mountain.png",
+    image: "images/webp/mountain.webp",
     size: "100 x 70 cm"
   },
   {
@@ -34,7 +34,7 @@ const artworks: Artwork[] = [
     title: "Dismemberment & Golden Rebirth",
     year: "2022",
     description: "Finger, hand, paintbrush, collage with gouache",
-    image: "images/rebirth.png",
+    image: "images/webp/rebirth.webp",
     size: "100 x 70 cm"
   },
   {
@@ -42,7 +42,7 @@ const artworks: Artwork[] = [
     title: "Arctic Dance",
     year: "2022",
     description: "Paintbrush with gouache",
-    image: "images/dance.png",
+    image: "images/webp/dance.webp",
     size: "70 x 100 cm"
   },
                   {

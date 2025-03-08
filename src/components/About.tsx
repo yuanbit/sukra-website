@@ -11,7 +11,7 @@ const About = () => {
           {/* Circle Image */}
           <div className="flex justify-center mt-6">
             <img
-              src="/images/me.png"  // Change to the correct image path
+              src="/images/webp/me_cropped.webp"  // Change to the correct image path
               alt="My Story"
               className="w-64 h-64 rounded-full object-cover shadow-lg"
             />

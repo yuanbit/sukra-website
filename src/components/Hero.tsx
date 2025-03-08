@@ -12,7 +12,7 @@ const Hero = () => {
   return (
     <section className="relative h-screen flex items-center justify-center overflow-hidden">
       {/* Background Image */}
-<div className="absolute inset-0 bg-[url('/images/webp/hero.png')] bg-cover bg-center">
+<div className="absolute inset-0 bg-[url('/images/webp/hero.webp')] bg-cover bg-center">
   <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-black/60 to-black/30"></div>
 </div>
 

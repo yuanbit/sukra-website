@@ -1,5 +1,5 @@
 import Navbar from '../components/Navbar';
-import Commission from '../components/About';
+import About from '../components/About';
 import Footer from '../components/Footer';
 
 const AboutPage = () => {
